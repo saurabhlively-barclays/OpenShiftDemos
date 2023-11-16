@@ -4,5 +4,4 @@ pymongo
 pandas
 numpy
 os
-io
 json
