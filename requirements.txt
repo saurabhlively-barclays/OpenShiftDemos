@@ -1,2 +1,8 @@
 gunicorn
 Flask
+pymongo
+pandas
+numpy
+os
+io
+json
